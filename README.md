@@ -29,11 +29,11 @@
 - data/ : 샘플 데이터셋
 
 ## AI Agent 만드는 단계
-1단계: 샘플 데이터셋 구축(필요시 실시간 API 연동)
-2단계: 임베딩 생성 (Embedding)
-3단계: 벡터 DB 구축 (VectorDB - FAISS)
-4단계: 검색결과 + LLM 결합 → RAG 구성
-5단계: Function Calling 기반 상품 상세정보 제공
+- 1단계: 샘플 데이터셋 구축(필요시 실시간 API 연동)
+- 2단계: 임베딩 생성 (Embedding)
+- 3단계: 벡터 DB 구축 (VectorDB - FAISS)
+- 4단계: 검색결과 + LLM 결합 → RAG 구성
+- 5단계: Function Calling 기반 상품 상세정보 제공
 
 일단 각자 1~5단계까지 모두 실습해 보는 것을 추천
 
