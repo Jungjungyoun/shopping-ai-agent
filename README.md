@@ -5,18 +5,18 @@
 ## Term Project
 - 주제: LLM과 RAG 이용한 AI Agent 개발
 - 필수 조건
-  .고급 Prompt Engineering  기법 사용
-  .Function Calling 또는 ReAct 중 하나를 반드시 사용
-  .VectorDB를 사용한 RAG 구성 및 적용
-  .Github을 이용한 형상관리: 팀별 저장소 생성 필수
+  - 고급 Prompt Engineering  기법 사용
+  - Function Calling 또는 ReAct 중 하나를 반드시 사용
+  - VectorDB를 사용한 RAG 구성 및 적용
+  - Github을 이용한 형상관리: 팀별 저장소 생성 필수
 - AI Agent가 제공하는 서비스는 자유 주제로 무엇이든 가능함
 - LLM과 Vector DB 는 자율 선택
 - 프로젝트 평가:
-  .각 팀원의 역할 분배와 협업(Github의 Contribution 상황 고려) (10%)
-  .프로젝트 완성도 (50%)
-  .소스 코드: github  형상 관리 내용(10%)
-  .창의성(15%)
-  .기술성(15%)
+  - 각 팀원의 역할 분배와 협업(Github의 Contribution 상황 고려) (10%)
+  - 프로젝트 완성도 (50%)
+  - 소스 코드: github  형상 관리 내용(10%)
+  - 창의성(15%)
+  - 기술성(15%)
 - 일정 : 6월 17일(화) 프로젝트 발표, 기말고사 문제 오픈
 
 ## 주요 기능
